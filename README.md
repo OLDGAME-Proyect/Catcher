@@ -24,8 +24,11 @@ Management and modification of basic window appearance:
 
 
  ---
- Some catcher functions have been fixed and made easier with simple messages. You can find them and their functions below or check the default index.html that comes with catcher in the "_game" folder.
+ Some catcher functions have been fixed and made easier with simple messages. You can find them and their functions below or check the default index.html that comes with catcher in the "_game" folder.     
  ---
+ ```
+window.chrome.webview.postMessage
+```
  // Windows state
  ```
 { action: "getWindowPosition" }
@@ -48,7 +51,7 @@ Management and modification of basic window appearance:
 // Windows
 ```
 { action: "newWindow" }
-{ action: "newWindow", path }   
+{ action: "newWindow", path }  //"_game/index2.html" 
 ```
 
 // Browser Call
@@ -60,4 +63,13 @@ Management and modification of basic window appearance:
 ```
 { action: "get_document_in_pc_direction" }
 ```
+---
+## Construct 2
+
+To export to Catcher with Construct 2, simply export your project to HTML5 and copy all generated content into the main folder containing "index.html."
+
+>Catcher plugin 1.2v for construct 2
+
+[Download C2Plugin](https://www.mediafire.com/file/pshni7hls65dhab/Catcher1_2v-Plugin_for_C2.zip/file)
+
 

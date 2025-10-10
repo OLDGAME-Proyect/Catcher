@@ -2,7 +2,7 @@ Catcher is a simple application focused on video games that allows you to reprod
 compatibility and control over the system and the aesthetics of the experience that the developer is looking for. Catcher works with Webview2
 
 #First release (1.2v)
-
+---
 |Features:
 
 -Management and modification of basic window appearance:
@@ -16,8 +16,9 @@ compatibility and control over the system and the aesthetics of the experience t
 (Force full screen, initial window size, initial window position, initial window title)
 
 -Loading custom icons for the taskbar and window with a "custom.ico" file
-
+---
 
  Catcher uses a minimum of 70 MB of memory when running.
 
  #catcher_1.2build_32_bits
+

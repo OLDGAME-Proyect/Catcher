@@ -72,4 +72,6 @@ To export to Catcher with Construct 2, simply export your project to HTML5 and c
 
 [Download C2Plugin](https://www.mediafire.com/file/pshni7hls65dhab/Catcher1_2v-Plugin_for_C2.zip/file)
 
+[PeojectTemplateCapxC2](https://github.com/OLDGAME-Proyect/Catcher/tree/main/c2plugin/ExampleCAPX)
+
 

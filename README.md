@@ -66,7 +66,7 @@ window.chrome.webview.postMessage
 ---
 ## Construct 2
 
-To export to Catcher with Construct 2, simply export your project to HTML5 and copy all generated content into the main folder containing "index.html."
+To export to Catcher with Construct 2, simply export your project to HTML5 and copy all the generated content from the main folder containing "index.html" to the "_game" folder in Catcher.
 
 >Catcher plugin 1.2v for construct 2
 

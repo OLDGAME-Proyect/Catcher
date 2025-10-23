@@ -1,6 +1,9 @@
 > Catcher is a simple application focused on video games that allows you to reproduce/distribute your HTML/WEB games for Windows with greater ease, 
 >compatibility and control over the system and the aesthetics of the experience that the developer is looking for. Catcher works with Webview2
 
+Virustotal Results (4/67)
+[1.2v 22/10/25 14:08](https://www.virustotal.com/gui/file/15e1c04d43181ddd143c4edb03bebf36ad33f9288695d49dca9ac16ee3f8d61e?nocache=1)
+
 ## First release (1.2v)
 ---
 ### Features:
